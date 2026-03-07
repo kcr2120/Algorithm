@@ -1,7 +1,9 @@
 # Baekjoon
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcr2120)](https://solved.ac/kcr2120)
-# 사용하는 언어 비율을 나태내는 위젯
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcr2120)](https://github.com/anuraghazra/github-readme-stats)
-# GitHub 평판을 나타내는 위젯
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcr2120)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
+
+<div align=center>
+<h3>반갑습니다! 채령입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
