@@ -16,4 +16,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kcr2120/Algorithm/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [3285-find-indices-of-stable-mountains](https://github.com/kcr2120/Algorithm/tree/master/3285-find-indices-of-stable-mountains) |
 <!---LeetCode Topics End-->
