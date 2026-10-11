@@ -19,5 +19,10 @@
 ## Array
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kcr2120/Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/kcr2120/Algorithm/tree/master/3285-find-indices-of-stable-mountains) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kcr2120/Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
